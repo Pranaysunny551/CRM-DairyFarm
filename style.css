@@ -1,0 +1,89 @@
+
+.logo-img {
+    width: 30%;
+    margin-left: 10px;
+}
+.container-1 {
+    height: 100vh;
+    background-image: url("https://res.cloudinary.com/dyjc34n85/image/upload/v1731066432/cows-eating-lush-grass-green-field-front-fuji-mountain-japan_1_e7qurv.jpg");
+    background-size: cover;
+}
+.nav-link{
+    font-size: 20px;
+    font-family: "roboto";
+}
+.nav-item{
+    margin-right: 40px;
+}
+.contant{
+    width: 100%;
+    height: 50%;
+}
+.category-img {
+    width: 100px;
+    height: 80px;
+}
+.image-1{
+    height: 120px;
+    width: 120px;
+}
+.card {
+    border-radius: 60px;
+    height: 140px;
+    width: 140px;
+}
+.card-p {
+    margin: 20px;
+}
+.p-head {
+    font-family: roboto;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.signup-container{
+    background-image: url("https://res.cloudinary.com/dyjc34n85/image/upload/v1731340696/pexels-akos-szabo-145938-440731_tyqykw.jpg");
+    background-size: cover;
+}
+.login-container{
+    background-image: url("https://res.cloudinary.com/dyjc34n85/image/upload/v1731065364/mrc-temiscamingue-4vix4g7Pb74-unsplash_bqdned.jpg");
+    background-size: cover;
+}
+.form-container{
+    margin-top: 10%;
+    border-radius: 10px;
+    font-family: "roboto";
+    background-image: url("https://res.cloudinary.com/dyjc34n85/image/upload/v1731338070/Pngtree_blue_atmospheric_background_913348_cupfwo.jpg");
+    background-size: cover;
+    margin-bottom: 10%;
+    
+}
+.details {
+    margin-top: 15px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.card-2 {
+    margin: 40px;
+    
+}
+.offer-card{
+    height: 150px;
+    width: 280px;
+    border-radius: 8px;
+}
+.p-card{
+    margin: 10px;
+    background-color: rgb(201, 219, 235);
+    padding: 20px;
+    height: 300px;
+    width: 240px;
+    border-radius: 10px;
+    box-shadow: inset;
+}
+.p-image{
+    height: 120px;
+    width: 100px;
+}
+.p-card-heading{
+    font-size: 15px;
+}
